@@ -8,7 +8,7 @@
 
 [Delete Software](Delete-Software.html)
 
-[Uninstall the App](Uninstal-App.html)
+[Uninstall the App](Uninstall-App.html)
 
 You can use the [editor on GitHub](https://github.com/asanchez705/Update-Away/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
