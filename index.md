@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Login](Login-to-App.html)
+
 [Software Updates](Software-Updates.html)
 
 [Customer Feedback](Customer-Feedback.html)
